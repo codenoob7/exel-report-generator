@@ -73,7 +73,7 @@ pip install pandas openpyxl
 
 ### 🧾 Summary + Chart (Preview 1)
 
-![Summary + Chart](Excel_Report_Generator/Images/image5.png)
+![Summary + Chart](Images/image5.png)
 
 ---
 
